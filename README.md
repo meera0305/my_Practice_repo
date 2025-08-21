@@ -20,5 +20,5 @@ I am using this repo to organize my practice programs in **Java, HTML, CSS, Java
 ## 🚀 How to Use
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/My_Practice.git
+
 
